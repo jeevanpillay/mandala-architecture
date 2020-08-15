@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T02:43:57.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="j-EFV4ONz12cG2KJD4nA" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T02:49:42.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="KbHnQp9mHRi-yXIkcR0v" version="13.6.2" type="github">
   <diagram id="dgdlfLjW2s20BMhnikNt" name="Page-1">
-    <mxGraphModel dx="3080" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4506" dy="2853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,7 +234,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QXBRQliUTnef7ta2N4eQ-34" value="&amp;lt;&amp;lt; Abstract &amp;gt;&amp;gt; Common Storage Repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QXBRQliUTnef7ta2N4eQ-34" value="&amp;lt;&amp;lt; Abstract &amp;gt;&amp;gt; Repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QXBRQliUTnef7ta2N4eQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamond;endFill=1;" edge="1" parent="1" source="QXBRQliUTnef7ta2N4eQ-36" target="QXBRQliUTnef7ta2N4eQ-34">
